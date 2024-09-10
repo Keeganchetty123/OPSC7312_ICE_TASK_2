@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">currencyconversionapp</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="from_currency_e_g_usd">From Currency (e.g., USD)</string>
+    <string name="to_currency_e_g_zar">To Currency (e.g., ZAR)</string>
+    <string name="conversion_result">Conversion Result</string>
+    <string name="convert">Convert</string>
+</resources>
